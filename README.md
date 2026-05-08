@@ -337,3 +337,7 @@ The entire app uses a consistent indigo + slate palette:
 | `feat: add Recharts line and bar charts to dashboard` | dev | Revenue + signups charts |
 | `feat: integrate AG Grid between charts and stats` | dev | Typed ColDef, pagination, quartz theme |
 | `feat: add settings and profile pages with toast feedback` | dev | SettingsPage, ProfilePage, toast on save |
+
+https://claude.ai/share/ae1f7e55-884c-4a64-94d8-997862fea29f
+
+https://gemini.google.com/share/762f55b6c9ae
